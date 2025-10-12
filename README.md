@@ -45,9 +45,13 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <div align="center">
   
-[Portfolio](https://github.com/mahmoudalmadrasa-hue)
+[Portfolio](https://github.com/mahmoudalmadrasa-hue) 
+
 [LinkedIn](https://www.linkedin.com/in/mahmoud-tafour-222a0b382/)
+
 [X](https://x.com/lion_295007)
+
 [Facebook](https://www.facebook.com/maf.29500/)
+
 [Youtube](https://www.youtube.com/@maf.29500)
 </div>
