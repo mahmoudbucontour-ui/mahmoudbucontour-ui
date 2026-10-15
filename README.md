@@ -29,6 +29,38 @@ Python
 SQL
 Git & GitHub
 I work on side projects and love talking about what I've learnt.
+       Mahmoud Talaat Tafour
+1-6-2017|+966539098397|Mahmoudalmadrasa@gmail.com| https://www.linkedin.com/in/mahmoud-tafour-222a0b382
+Senior Frontend Developer 
+Hi! I am a passionate Frontend Developer with a strong technical skill set, attention to detail, and 9 years of experience.
+ I thrive on creating digital magic and elevating user experience to the next level.
+ Core Competencies: HTML • CSS • Sass • JavaScript • React • Redux • React Native • TypeScript • Unit Testing • Jest • Enzyme • Cypress • Jenkins Languages: Arabic (native) - English (Good written and spoken) Experience: It’s one of the leading global online food ordering and delivery marketplaces.
+ Responsibilities: • Use Sentry to track production issues and improve the codebase 
+• Participate in the ideation of new features
+ • Help the design team to make valid designs that don’t affect performance 
+• Onboard new developers and help them fit into the team
+ • Improve the codebase and use best practices 
+• Help the product team to estimate Jira tickets and assign complexity
+ • Write unit tests and increase the test coverage 
+• Deliver new features 
+• Review PRs and make sure they follow the code standards and best practices. Tech stack: React, Redux, Jest, Jenkins, Docker, Sentry, Selenium, Agile. Delivery Hero - Software Engineer Dec 2019 - Present. It’s one of the largest retail and hospitality organizations in the Middle East, Africa, and India. We had more than 12 websites for our brands.
+ Responsibilities: • Mentor and support juniors on the team
+ • Adding new features 
+• Fixing production issues 
+• Refactor the code and upgrade the legacy code parts 
+• Start using React, Redux, Jest stack 
+• Sync with the frontend developers in the India team. Tech stack: HTML, CSS3, Sass, JavaScript, React, Redux, jQuery, Agile 
+  Responsibilities: • Deliver websites with high-quality animations (CSS3, canvas) and solid performance 
+• Use Vue.js to create a scalable and performant website 
+• Help designers to understand the code limitations 
+• Mentor juniors to improve their skills 
+• Communicate with clients to collect the business requirements. Tech stack: HTML, CSS3, Sass, Canvas, JavaScript, Vue.js, Vuex, Gulp Webkeyz - Senior Frontend Developer May 2016 - Sep 2017 
+• Deliver pixel-perfect websites (responsive).
+ • Create landing pages for the marketing team 
+• Create an internal system for our marketing team. Tech stack: HTML, CSS3, Sass, JavaScript, Gulp. Emerging Media UK - Senior Frontend Developer Apr 2014 – Apr 2016. An award-winning, full-service creative digital agency offering a comprehensive range of services to create focused media. 
+Responsibilities: • Converting the designs into fully working websites (responsive) 
+• Enhance my skills and learn more about best practices, animation, and performance. Tech stack: HTML, CSS3, JavaScript, jQuery. Icon-Creations - Frontend Developer Jan 2014 - Mar 2014. I was a full-stack developer who was responsible for converting the designs into fully working websites (responsive). Tech stack: HTML, CSS, Javascript, jQuery. EgyBlanco - Frontend Developer, Jun 2012 - Dec 2013. It's a mobile app that helps people connect with the Holy Quran and sends a random verse daily. Users can read, listen to, search, and share verses with friends. Tech stack: Figma, React Native, Firebase. Links: wzkr.page.link/ard - wzkr.page.link/ios 
+Links: wzkr.page.link/ext 
 
 
 <br clear="right"/>
