@@ -16,12 +16,18 @@ I am a Software student skilled in React, Next.js, WordPress, PHP, and more. <br
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
-I'm a full-stack developer who is interested in work with a meaningful impact.
+I'm a full-stack developer who is interested in working with a meaningful impact.
 
-I was part of the core team at Founders and Coders from 2020 - 2023.
+I was part of the core team at Founders and Coders from 2022  until now.
 
-Now, I work at the University of Greenwich.
+I'm a Full Stack Developer & Teacher at Scrimba ⚡️
 
+ Stack
+HTML & CSS
+JavaScript / React / Next / Node
+Python
+SQL
+Git & GitHub
 I work on side projects and love talking about what I've learnt.
 
 
